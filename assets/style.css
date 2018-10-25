@@ -1,0 +1,61 @@
+.header{
+  background-color:lightblue;
+  line-height: 80px;
+font-size: 60px;
+}
+footer{
+  background-color:lightblue;
+  bottom: 0;
+  width:100%;
+
+}
+.pics{
+  height:300px;
+  width: 300px;
+  }
+.section1{
+  height: 100px;
+border-left: 1px solid white;
+    border-bottom: 1px solid white;
+       background-color: rgba(100, 100,100, .5);
+}
+
+.section2{
+  height:100px;
+ border-left: 1px solid white;
+    border-bottom: 1px solid white; 
+    background-color: rgba(100, 100,100, .5);
+
+}
+.section3{
+  height:100px;
+  border-left: 1px solid white;
+    border-bottom: 1px solid white;
+    background-color: rgba(100, 100,100, .5);
+ 
+  }
+.section4{
+  height:100px;
+ border-left: 1px solid white;
+    border-bottom: 1px solid white;
+    background-color: rgba(100, 100,100, .5);
+  }
+ 
+body {
+  background-image: url("lake.jpg");
+  background-size: cover;
+    background-position: top;
+}
+.jpg{
+  height:100px;
+  width: 100px;
+}
+
+.picture{
+  height:30vh;
+}
+
+.picture-pos{
+  display:flex;
+  justify-content:flex-end;
+}
