@@ -4,10 +4,14 @@
 font-size: 50px;
 height: 100px;
 font-family: cursive;
+ display:flex;
+  justify-content:center;
 }
 .header2{
   background-color:lightblue;
   font-size:30px;
+   display:flex;
+  justify-content:center;
 }
 footer{
   background-color:lightblue;
@@ -88,6 +92,8 @@ body {
    font-size: 20px;
    background-color:rgba(100, 100, 100, .3);
    margin-right: 30px;
+    display:flex;
+  justify-content:center;
 }
 .text4{
   color:whitesmoke;
@@ -117,4 +123,28 @@ body {
   color:rgb(235, 12, 160);
   font-size: 125px;
    background-color:rgba(100, 100, 100, .3);
+}
+.bullet1{
+  color:whitesmoke;
+   font-size: 20px;
+   background-color:rgba(100, 100, 100, .3);
+   margin-right: 30px;
+    display:flex;
+  justify-content:center;
+}
+.bullet2{
+  color:whitesmoke;
+   font-size: 20px;
+   background-color:rgba(100, 100, 100, .3);
+   margin-right: 30px;
+    display:flex;
+  justify-content:center;
+}
+.bullet3{
+  color:whitesmoke;
+   font-size: 20px;
+   background-color:rgba(100, 100, 100, .3);
+   margin-right: 30px;
+    display:flex;
+  justify-content:center;
 }
