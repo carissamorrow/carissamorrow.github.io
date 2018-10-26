@@ -78,9 +78,10 @@ body {
   background-color:rgba(33, 61, 39, 0.3);
 }
 .text2{
-  color:whitesmoke;
-  font-size: 20px;
+  color:rgb(185, 28, 28);
+  font-size: 120px;
    background-color:rgba(100, 100, 100, .3);
+   margin-right: 10px;
 }
 .text3{
   color:whitesmoke;
@@ -90,5 +91,25 @@ body {
 .text4{
   color:whitesmoke;
    font-size: 20px;
+   background-color:rgba(100, 100, 100, .3);
+}
+.text5{
+  color:rgb(152, 87, 238);
+  font-size: 120px;
+   background-color:rgba(100, 100, 100, .3);
+}
+.text6{
+  color:rgb(134, 214, 238);
+  font-size: 125px;
+   background-color:rgba(100, 100, 100, .3);
+}
+.text7{
+  color:rgb(151, 238, 134);
+  font-size: 125px;
+   background-color:rgba(100, 100, 100, .3);
+}
+.text8{
+  color:rgb(235, 12, 160);
+  font-size: 125px;
    background-color:rgba(100, 100, 100, .3);
 }
