@@ -87,26 +87,31 @@ body {
   color:whitesmoke;
    font-size: 20px;
    background-color:rgba(100, 100, 100, .3);
+   margin-right: 30px;
 }
 .text4{
   color:whitesmoke;
    font-size: 20px;
    background-color:rgba(100, 100, 100, .3);
+   margin-right: 20px;
 }
 .text5{
   color:rgb(152, 87, 238);
   font-size: 120px;
    background-color:rgba(100, 100, 100, .3);
+   margin-right: 30px;
 }
 .text6{
   color:rgb(134, 214, 238);
   font-size: 125px;
    background-color:rgba(100, 100, 100, .3);
+   margin-right: 30px;
 }
 .text7{
   color:rgb(151, 238, 134);
   font-size: 125px;
    background-color:rgba(100, 100, 100, .3);
+   margin-right: 30px;
 }
 .text8{
   color:rgb(235, 12, 160);
