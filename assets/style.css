@@ -1,8 +1,8 @@
 .header{
   background-color:lightblue;
-  line-height: 80px;
+  line-height: 100px;
 font-size: 50px;
-height: 100px;
+height: 120px;
 font-family: cursive;
  display:flex;
   justify-content:center;
@@ -10,6 +10,7 @@ font-family: cursive;
 .header2{
   background-color:lightblue;
   font-size:30px;
+  height: 100px;
    display:flex;
   justify-content:center;
 }
@@ -85,7 +86,8 @@ body {
   color:rgb(185, 28, 28);
   font-size: 120px;
    background-color:rgba(100, 100, 100, .3);
-   margin-right: 10px;
+  margin-left:40px;
+   margin-right: 70px;
 }
 .text3{
   color:whitesmoke;
@@ -97,7 +99,7 @@ body {
 }
 .text4{
   color:whitesmoke;
-   font-size: 20px;
+   font-size: 50px;
    background-color:rgba(100, 100, 100, .3);
    margin-right: 20px;
 }
@@ -105,24 +107,25 @@ body {
   color:rgb(152, 87, 238);
   font-size: 120px;
    background-color:rgba(100, 100, 100, .3);
-   margin-right: 30px;
+   margin-right: 80px;
 }
 .text6{
   color:rgb(134, 214, 238);
   font-size: 125px;
    background-color:rgba(100, 100, 100, .3);
-   margin-right: 30px;
+   margin-right: 90px;
 }
 .text7{
   color:rgb(151, 238, 134);
   font-size: 125px;
    background-color:rgba(100, 100, 100, .3);
-   margin-right: 30px;
+   margin-right: 80px;
 }
 .text8{
   color:rgb(235, 12, 160);
   font-size: 125px;
    background-color:rgba(100, 100, 100, .3);
+ 
 }
 .bullet1{
   color:whitesmoke;
