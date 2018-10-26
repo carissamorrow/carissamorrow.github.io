@@ -13,6 +13,8 @@ footer{
   background-color:lightblue;
   bottom: 0;
   width:100%;
+  font-family: cursive;
+  font-size: 30px;
 
 }
 .pics{
@@ -62,7 +64,8 @@ body {
 }
 
 .picture{
-  height:30vh;
+  height:40vh;
+  margin-bottom: 5px;
 }
 
 .picture-pos{
@@ -76,13 +79,16 @@ body {
 }
 .text2{
   color:whitesmoke;
+  font-size: 20px;
    background-color:rgba(100, 100, 100, .3);
 }
 .text3{
   color:whitesmoke;
+   font-size: 20px;
    background-color:rgba(100, 100, 100, .3);
 }
 .text4{
   color:whitesmoke;
+   font-size: 20px;
    background-color:rgba(100, 100, 100, .3);
 }
