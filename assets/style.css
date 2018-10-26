@@ -89,10 +89,10 @@ body {
 }
 .text2{
   color:rgb(185, 28, 28);
-  font-size: 120px;
+  font-size: 100px;
    background-color:rgba(100, 100, 100, .3);
   margin-left:40px;
-   margin-right: 70px;
+   margin-right: 50px;
 }
 .text3{
   color:whitesmoke;
@@ -110,26 +110,33 @@ body {
 }
 .text5{
   color:rgb(152, 87, 238);
-  font-size: 120px;
+  font-size: 100px;
    background-color:rgba(100, 100, 100, .3);
-   margin-right: 80px;
+   margin-right: 50px;
 }
 .text6{
   color:rgb(134, 214, 238);
-  font-size: 125px;
+  font-size: 100px;
    background-color:rgba(100, 100, 100, .3);
-   margin-right: 90px;
+   margin-right: 50px;
 }
 .text7{
   color:rgb(151, 238, 134);
-  font-size: 125px;
+  font-size: 100px;
    background-color:rgba(100, 100, 100, .3);
-   margin-right: 80px;
+   margin-right: 50px;
 }
 .text8{
   color:rgb(235, 12, 160);
   font-size: 125px;
    background-color:rgba(100, 100, 100, .3);
+ 
+}
+.text9{
+  color:rgb(235, 83, 12);
+  font-size: 125px;
+   background-color:rgba(100, 100, 100, .3);
+   margin-left:40px;
  
 }
 .bullet1{
