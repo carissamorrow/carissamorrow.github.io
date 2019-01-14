@@ -170,6 +170,10 @@ body {
    margin-left:40px;
  
 }
+.text13 {
+  position: relative;
+  justify-content: right;
+}
 .bullet1{
   color:whitesmoke;
    font-size: 20px;
