@@ -198,4 +198,18 @@ body {
     display:flex;
   justify-content:center;
 }
+.proj-img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5%;
+    opacity: .8;
+}
+.proj-img:hover {
+    opacity: 2;
+}
+.pb-1 {
+  color: whitesmoke;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 30px;
+}
 
