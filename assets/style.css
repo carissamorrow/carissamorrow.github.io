@@ -114,9 +114,12 @@ body {
 }
 .text1{
   color: black;
+  background-color: #c9c9c9;
+    border-radius: 25px;
+  padding: 20px; 
   font-size: 20px;
   font-weight: bold;
-  background-color:lightgrey;
+  
   
 }
 .text2{
@@ -130,6 +133,9 @@ body {
   color:black;
    font-size: 20px;
    background-color:lightgrey;
+      border-radius: 25px;
+  padding: 20px; 
+  font-size: 20px;
    margin-right: 30px;
     display:flex;
   justify-content:center;
@@ -179,6 +185,9 @@ body {
   color:black;
    font-size: 20px;
    background-color:lightgrey;
+      border-radius: 25px;
+  padding: 20px; 
+  font-size: 20px;
    margin-right: 30px;
     display:flex;
   justify-content:center;
@@ -187,6 +196,9 @@ body {
   color:black;
    font-size: 20px;
    background-color:lightgrey;
+      border-radius: 25px;
+  padding: 20px; 
+  font-size: 20px;
    margin-right: 30px;
     display:flex;
   justify-content:center;
@@ -195,6 +207,9 @@ body {
   color:black;
    font-size: 20px;
    background-color:lightgrey;
+      border-radius: 25px;
+  padding: 20px; 
+  font-size: 20px;
    margin-right: 30px;
     display:flex;
   justify-content:center;
@@ -215,5 +230,8 @@ body {
 }
 
 .background {
-  background-color: lightgrey
+  background-color: lightgrey;
+     border-radius: 25px;
+  padding: 20px; 
+  font-size: 20px;
 }
